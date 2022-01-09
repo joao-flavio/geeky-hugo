@@ -1,6 +1,6 @@
 ---
-title: "Search Result"
-description: "this is meta description"
-layout: "search"
-draft: false
+title: Resultado da pesquisa
+description: ''
+layout: search
+
 ---
