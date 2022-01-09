@@ -2,55 +2,32 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Início"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Sobre"
+url = "sobre/"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Contato"
+url = "contato/"
 weight = 3
-
-[[main]]
-name = "Pages"
-url = "#"
-weight = 3
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/"
-  weight = 1
-
-  [[main]]
-  parent = "Pages"
-  name = "Categories"
-  url = "categories/"
-  weight = 2
 
 # footer menu
 [[footer]]
-name = "Home"
+name = "Início"
 url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
-url = "about/"
+name = "Sobre"
+url = "sobre/"
 weight = 2
 
 [[footer]]
-name = "Contact"
-url = "contact/"
+name = "Contato"
+url = "contato/"
 weight = 3
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
