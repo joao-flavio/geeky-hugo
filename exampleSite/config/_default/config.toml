@@ -1,9 +1,9 @@
 baseURL = "https://joaoflavio.netlify.app/"
 disableLanguages = ["fr"]
-disqusShortname = "themefisher-template"
+disqusShortname = "joaoflavio-1"
 googleAnalytics = ""
-languageCode = "en-us"
-languageName = "En"
+languageCode = "pt-br"
+languageName = "Português"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
