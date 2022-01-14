@@ -24,7 +24,7 @@ link = "https://discord.gg/bYTyadn3u8"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Saiba mais sobre mim"
-button_link = "sobre/"
+button_link = "about/"
 content = "Aqui eu posto sobre minha vida pessoal, acadêmica e profissional"
 enable = true
 image = "images/banner.png"
@@ -39,9 +39,9 @@ expire_days = 2
 enable = false
 preloader = ""
 [subscription]
-enable = false
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+enable = true
+mailchimp_form_action = "https://interm.us20.list-manage.com/subscribe/post?u=458b5aec1c4243e39e1664e4f&amp;id=a6259aa8fca6259aa8fc"
+mailchimp_form_name = "b_458b5aec1c4243e39e1664e4f_a6259aa8fc"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
