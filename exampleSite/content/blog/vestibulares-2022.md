@@ -1,7 +1,7 @@
 ---
 title: "Vestibulares que pretendo fazer em 2022"
 description: "Neste post eu abordo os motivos pelos quais optei por focar em vestibulares militares"
-image: "images/post/vestibular.png"
+image: "images/post/vestibular.jpg"
 date: 2021-01-24T18:19:25+06:00
 categories: ["vestibular"]
 type: "regular" # available types: [featured/regular]
